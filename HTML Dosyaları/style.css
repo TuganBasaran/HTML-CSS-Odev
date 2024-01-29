@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: #f8fae5;
+}
+
+h2 {
+    text-align: center;
+    color: #43766C;
+}
+
+img {
+    text-align: center;
+}
+
+div.myContainer {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul.myUl{
+    display: inline-block;
+    text-align: left;
+}
+
+.navLinks a {
+    text-decoration: none; 
+    margin-right: 10px;
+}
+
+body {
+    background-color: #b19470;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+div.urun {
+    margin-top: 20px;
+    text-align: center;
+}
+
+div { 
+    text-align: center;
+}
